@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+Name = "Ajmal M S"
+print("Hello", Name)
