@@ -2,3 +2,6 @@
 
 Name = "Ajmal M S"
 print("Hello", Name)
+
+
+#The shebang (#!/usr/bin/env python3) tells the system to use Python 3 to execute the script. It allows running the script as a standalone program (./task3.py instead of python3 task3.py).
