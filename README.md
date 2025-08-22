@@ -34,7 +34,7 @@ Task-10/
 
 - Basic HTML structure with meta tags for character set and responsive design.
 
-- Displays a centered greeting message using <h1> and <p>.
+- Displays a centered greeting message using # <h1 and # <p>.
 
 - Styled with simple CSS for font and alignment.
 
