@@ -8,7 +8,7 @@
 
 **Repository Structure:**
 
-Task-10/
+Task-8/
 
 /- Adding shebang in python Task 3 file and execution it in script - Python code
 
